@@ -4,5 +4,5 @@ export interface Config {
 }
 
 export const config: Config = {
-    apiUrl: "http://localhost:3001"
+    apiUrl: "https://spaceshooter-backend.herokuapp.com"
 }
